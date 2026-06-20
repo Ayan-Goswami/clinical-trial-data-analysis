@@ -79,14 +79,52 @@ Most patients reported never smoking, while a large number of records contained 
 
 Although females represented a larger proportion of the dataset, males showed a slightly higher stroke rate (5.11% vs 4.71%).
 
+### Smoking Status and Stroke Risk
+
+| Smoking Status | Stroke Rate |
+|---------------|------------:|
+| Formerly Smoked | 7.91% |
+| Smokes | 5.32% |
+| Never Smoked | 4.76% |
+| Unknown | 3.04% |
+
+Former smokers showed the highest observed stroke rate in the dataset. This relationship may be influenced by age and other health factors, requiring further investigation.
+
+### Smoking Status, Age and Stroke Risk
+
+| Smoking Status | Stroke Rate | Average Age |
+|---------------|------------:|------------:|
+| Formerly Smoked | 7.91% | 54.93 |
+| Smokes | 5.32% | 47.10 |
+| Never Smoked | 4.76% | 46.74 |
+| Unknown | 3.04% | 30.23 |
+
+Former smokers exhibited the highest stroke rate in the dataset. However, they also had the highest average age, suggesting age may be a contributing factor to the increased stroke prevalence observed in this group.
+
+### Age Group and Stroke Risk
+
+| Age Group | Stroke Rate |
+|-----------|------------:|
+| 70+ | 17.75% |
+| 50–69 | 6.53% |
+| 30–49 | 1.30% |
+| Under 30 | 0.13% |
+
+Stroke prevalence increased sharply with age. Patients aged 70 and above exhibited the highest stroke rate (17.75%), while patients under 30 showed a very low stroke rate (0.13%). Age appears to be the strongest risk factor identified in this analysis.
 
 ## Current Progress
 
 ✅ PostgreSQL database created
-
 ✅ Dataset imported
+✅ Database created
+✅ SQL queries written
+✅ Insights generated
+✅ README started
 
-✅ Initial SQL analysis completed
+🚧 Advanced analysis in progress
+🚧 Data visualization pending
+🚧 Dashboard development pending
+🚧 Final report pending
 
 🚧 Advanced analysis in progress
 
