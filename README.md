@@ -112,6 +112,29 @@ Former smokers exhibited the highest stroke rate in the dataset. However, they a
 
 Stroke prevalence increased sharply with age. Patients aged 70 and above exhibited the highest stroke rate (17.75%), while patients under 30 showed a very low stroke rate (0.13%). Age appears to be the strongest risk factor identified in this analysis.
 
+## Key Insights
+
+### Age is the strongest predictor
+Patients aged 70+ showed a stroke rate of 17.75%, compared with only 0.13% among patients younger than 30.
+
+### Heart disease significantly increases risk
+Patients with heart disease experienced a stroke rate of 17.03%, compared with 4.18% for those without heart disease.
+
+### Hypertension + Heart Disease = Highest Risk Group
+Patients suffering from both conditions exhibited a stroke rate of 20.31%.
+
+### Smoking history matters
+Former smokers demonstrated the highest stroke rate (7.91%), followed by current smokers (5.32%).
+
+### Gender differences are minor
+Male patients showed a slightly higher stroke rate (5.11%) than female patients (4.71%).
+
+### Dataset Characteristics
+- 5,110 patient records
+- 249 stroke cases
+- 4,861 non-stroke cases
+- Balanced urban and rural representation
+
 ## Current Progress
 
 ✅ PostgreSQL database created
@@ -121,12 +144,6 @@ Stroke prevalence increased sharply with age. Patients aged 70 and above exhibit
 ✅ Insights generated
 ✅ README started
 
-🚧 Advanced analysis in progress
-🚧 Data visualization pending
-🚧 Dashboard development pending
-🚧 Final report pending
-
-🚧 Advanced analysis in progress
 
 
 ## Objectives
